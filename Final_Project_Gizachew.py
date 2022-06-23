@@ -1,3 +1,6 @@
+# The link for the data source is:
+#Risk Factors for Hospitalization and Death from COVID-19 in Humanitarian Settings - Humanitarian Data Exchange (humdata.org)
+
 # %%------------- Importing the required packages-----------------------
 
 import pandas as pd
